@@ -1,0 +1,7 @@
+{
+  "name": "onboarding8",
+  "version": "0.0.1",
+  "dependencies": {
+    "chalk": "2.0.0"
+  }
+}
